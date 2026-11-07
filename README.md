@@ -7,6 +7,7 @@ Skills de edição de vídeo para o Claude Code, criadas sob medida.
 | `color-grading` | Color grading com ffmpeg: 6 looks prontos, correções, LUTs .cube, HDR para SDR, antes/depois |
 | `font-pairing` | Combinações de fontes grátis (Google Fonts) para vídeo, incluindo o estilo Old Money |
 | `transicoes` | Junta clipes com ~55 transições (xfade), crossfade de áudio e ajuste de resolução/fps |
+| `roteiro-social` | Roteiros para Reels, TikTok e YouTube: gancho, tempos, texto na tela, B-roll, CTA e legenda, ligados à edição |
 
 `preferencias.md` são as preferências gerais (caveman lite, ffmpeg silencioso, vídeo final em qualidade máxima).
 
